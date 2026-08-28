@@ -124,8 +124,8 @@ export default async function Home() {
           </a>
 
           <form action={submitToCap}>
-            <input type="hidden" name="communityId" value="your-communityId" />
-            <input type="hidden" name="answer" value="your-answer" />
+            <input type="hidden" name="communityId" value="shankar_narayan_k" />
+            <input type="hidden" name="answer" value="hydration" />
             <input type="hidden" name="week" value="week4" />
 
             <button type="submit" className="w-full py-3 px-4 bg-red-600 rounded-lg hover:bg-red-500 transition font-medium cursor-pointer flex items-center justify-center gap-2">

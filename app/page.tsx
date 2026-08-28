@@ -108,18 +108,18 @@ export default async function Home() {
 
         {/* Profile Image placeholder */}
         <div className="w-24 h-24 bg-blue-500 rounded-full mx-auto mb-4 flex items-center justify-center font-bold text-2xl">
-          JD
+          SNK
         </div>
         
-        <h1 className="text-2xl font-bold">John Doe</h1>
-        <p className="text-slate-400 mb-6">Full Stack Developer</p>
+        <h1 className="text-2xl font-bold">Shankar Narayan K</h1>
+        <p className="text-slate-400 mb-6">Developer III, Enterprise Solutions, UST</p>
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
-          <a href="https://github.com" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
+          <a href="https://github.com/shankar-narayan-k" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
             GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+          <a href="https://in.linkedin.com/in/shankarnarayank" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
             LinkedIn
           </a>
 
